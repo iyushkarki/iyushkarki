@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Aayush Karki</h1>
-<h3>Lead Engineer at<a href="https://ecobees.net" target="blank">ecoBees Intelligence</a></h3>
+<h3>Lead Engineer at&nbsp;<a href="https://ecobees.net" target="blank">ecoBees Intelligence</a></h3>
 
 <h3 align="left">Languages and Tools:</h3> 
 
