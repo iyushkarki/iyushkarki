@@ -1,5 +1,6 @@
 <h1>Hi 👋, I'm Aayush Karki</h1>
 <h3>Lead Engineer at&nbsp;<a href="https://ecobees.net" target="blank">ecoBees Intelligence</a></h3>
+<h4>Code, Coffee, and Chaos: My Latest Blog Post should be Here! <a href="https://medium.com/@Iyush_karki/absolute-paths-in-node-js-configure-webpack-for-clean-scalable-backend-code-00a5ddd6a7cb" target="_blank">Check it out!</a></h4>
 
 <!-- ! <h3 align="left">Languages and Tools:</h3> --> 
 
