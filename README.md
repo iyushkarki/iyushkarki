@@ -1,10 +1,10 @@
-<h1>Hi 👋, I'm Aayush Karki</h1>
-<h3>Lead Engineer at&nbsp;<a href="https://ecobees.net" target="blank">ecoBees Intelligence</a></h3>
-<h4>Code, Coffee, and Chaos: My Latest Blog Post should be Here! <a href="https://medium.com/@Iyush_karki/absolute-paths-in-node-js-configure-webpack-for-clean-scalable-backend-code-00a5ddd6a7cb" target="_blank">Check it out!</a></h4>
+<h1>Hello I am Aayush:)</h1>
+<h3>Founder and Software Engineer @&nbsp;<a href="https://solyxstudios.com" target="blank">Solyx Studios</a></h3>
+<h4>Code and Coffee: My latest blog post should be here: <a href="https://medium.com/@Iyush_karki/absolute-paths-in-node-js-configure-webpack-for-clean-scalable-backend-code-00a5ddd6a7cb" target="_blank">Check it out!</a></h4>
 
 <!-- ! <h3 align="left">Languages and Tools:</h3> --> 
 
-# 💻 Tech Stack:
+### 💻 Tech Stack:
 
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="32" alt="html5 logo"  />
