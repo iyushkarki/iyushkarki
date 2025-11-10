@@ -30,7 +30,7 @@ I build products and automate stuff. I like to think in systems, not repetitive 
 ---
 
 **Shipped:** [EnvKeys](https://envkeys.com) — zero-knowledge env variable management  
-**Side project:** [SortMyMusic](https://sortmymusic.solyxstudios.com) — AI Spotify organizer
+**Side project:** [SortMyMusic](https://youtu.be/xu0CkZho0hI) — AI Spotify organizer
 
 **Open source:** [csys](https://github.com/iyushkarki) — system monitoring CLI in Go
 
