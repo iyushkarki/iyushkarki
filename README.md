@@ -6,7 +6,7 @@ I build products and automate stuff. I like to think in systems, not repetitive 
 
 ---
 
-**Latest:** [Absolute Paths in Node.js](https://medium.com/@Iyush_karki/absolute-paths-in-node-js-configure-webpack-for-clean-scalable-backend-code-00a5ddd6a7cb)
+**Latest article should be here:** [Absolute Paths in Node.js](https://medium.com/@Iyush_karki/absolute-paths-in-node-js-configure-webpack-for-clean-scalable-backend-code-00a5ddd6a7cb)
 
 ---
 
