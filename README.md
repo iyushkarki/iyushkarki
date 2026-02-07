@@ -29,9 +29,11 @@ I build products and automate stuff. I like to think in systems, not repetitive 
 
 ---
 
-**Shipped:** [EnvKeys](https://envkeys.com) — zero-knowledge env variable management  
+**Shipped:** [SEOforiOS](https://seoforios.com) — AI-Agent ASO intelligence SaaS.
+**Shipped:** [StudySchedule](https://apps.apple.com/us/app/study-schedule-planner-maker/id6756103128) — Class-timetable tracker & planner native ios app  
+**Shipped:** [EnvKeys](https://envkeys.com) — Zero-knowledge env variable management  
 **Side project:** [SortMyMusic](https://youtu.be/xu0CkZho0hI) — AI Spotify organizer
 
-**Open source:** [csys](https://github.com/iyushkarki) — system monitoring CLI in Go
+**Open source:** [csys](https://github.com/iyushkarki) — System monitoring & productivity CLI in Go
 
 I've mentored engineers and built SaaS at scale. Now doing my own thing.
